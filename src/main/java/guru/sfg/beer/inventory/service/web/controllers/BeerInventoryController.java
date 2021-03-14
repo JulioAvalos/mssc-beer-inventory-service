@@ -14,7 +14,7 @@ import java.util.UUID;
 import java.util.stream.Collectors;
 
 /**
- * Created by jt on 2019-05-31.
+ * Created by jt on 2019-05-31
  */
 @Slf4j
 @RequiredArgsConstructor
